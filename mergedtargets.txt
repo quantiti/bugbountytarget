@@ -204,6 +204,7 @@ wordcamp.org
 www.paypal-com
 xiami.com
 xoom.com
+yahoo.com
 ycombinator.com
 youku.com
 zomato.com
